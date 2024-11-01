@@ -1,7 +1,7 @@
-A¤o;Provincia;Especie;Cantidad de Avistamientos
-2020;San Jos‚;Puma;49
-2020;San Jos‚;Perezoso;23
-2020;San Jos‚;Quetzal;48
+Año;Provincia;Especie;Cantidad de Avistamientos
+2020;San José;Puma;49
+2020;San José;Perezoso;23
+2020;San José;Quetzal;48
 2020;Alajuela;Puma;26
 2020;Alajuela;Perezoso;11
 2020;Alajuela;Quetzal;31
@@ -17,12 +17,12 @@ A¤o;Provincia;Especie;Cantidad de Avistamientos
 2020;Puntarenas;Puma;0
 2020;Puntarenas;Perezoso;21
 2020;Puntarenas;Quetzal;44
-2020;Lim¢n;Puma;50
-2020;Lim¢n;Perezoso;43
-2020;Lim¢n;Quetzal;3
-2021;San Jos‚;Puma;4
-2021;San Jos‚;Perezoso;15
-2021;San Jos‚;Quetzal;40
+2020;Limón;Puma;50
+2020;Limón;Perezoso;43
+2020;Limón;Quetzal;3
+2021;San José;Puma;4
+2021;San José;Perezoso;15
+2021;San José;Quetzal;40
 2021;Alajuela;Puma;21
 2021;Alajuela;Perezoso;50
 2021;Alajuela;Quetzal;22
@@ -38,12 +38,12 @@ A¤o;Provincia;Especie;Cantidad de Avistamientos
 2021;Puntarenas;Puma;25
 2021;Puntarenas;Perezoso;25
 2021;Puntarenas;Quetzal;17
-2021;Lim¢n;Puma;17
-2021;Lim¢n;Perezoso;1
-2021;Lim¢n;Quetzal;49
-2022;San Jos‚;Puma;46
-2022;San Jos‚;Perezoso;22
-2022;San Jos‚;Quetzal;32
+2021;Limón;Puma;17
+2021;Limón;Perezoso;1
+2021;Limón;Quetzal;49
+2022;San José;Puma;46
+2022;San José;Perezoso;22
+2022;San José;Quetzal;32
 2022;Alajuela;Puma;4
 2022;Alajuela;Perezoso;45
 2022;Alajuela;Quetzal;46
@@ -59,12 +59,12 @@ A¤o;Provincia;Especie;Cantidad de Avistamientos
 2022;Puntarenas;Puma;4
 2022;Puntarenas;Perezoso;17
 2022;Puntarenas;Quetzal;15
-2022;Lim¢n;Puma;35
-2022;Lim¢n;Perezoso;6
-2022;Lim¢n;Quetzal;2
-2023;San Jos‚;Puma;27
-2023;San Jos‚;Perezoso;24
-2023;San Jos‚;Quetzal;19
+2022;Limón;Puma;35
+2022;Limón;Perezoso;6
+2022;Limón;Quetzal;2
+2023;San José;Puma;27
+2023;San José;Perezoso;24
+2023;San José;Quetzal;19
 2023;Alajuela;Puma;16
 2023;Alajuela;Perezoso;1
 2023;Alajuela;Quetzal;28
@@ -80,12 +80,12 @@ A¤o;Provincia;Especie;Cantidad de Avistamientos
 2023;Puntarenas;Puma;2
 2023;Puntarenas;Perezoso;9
 2023;Puntarenas;Quetzal;37
-2023;Lim¢n;Puma;4
-2023;Lim¢n;Perezoso;39
-2023;Lim¢n;Quetzal;0
-2024;San Jos‚;Puma;1
-2024;San Jos‚;Perezoso;11
-2024;San Jos‚;Quetzal;23
+2023;Limón;Puma;4
+2023;Limón;Perezoso;39
+2023;Limón;Quetzal;0
+2024;San José;Puma;1
+2024;San José;Perezoso;11
+2024;San José;Quetzal;23
 2024;Alajuela;Puma;28
 2024;Alajuela;Perezoso;17
 2024;Alajuela;Quetzal;42
@@ -101,6 +101,6 @@ A¤o;Provincia;Especie;Cantidad de Avistamientos
 2024;Puntarenas;Puma;16
 2024;Puntarenas;Perezoso;27
 2024;Puntarenas;Quetzal;36
-2024;Lim¢n;Puma;19
-2024;Lim¢n;Perezoso;16
-2024;Lim¢n;Quetzal;31
+2024;Limón;Puma;19
+2024;Limón;Perezoso;16
+2024;Limón;Quetzal;31
